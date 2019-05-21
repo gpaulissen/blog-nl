@@ -9,6 +9,9 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+{% if post.date %}
+  {% capture title %}{{ post.date | date: "%Y-%m-%d" }} - {{ title }}{% endcapture %}
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">

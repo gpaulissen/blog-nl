@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "Posts per Categorie"
 layout: categories
-permalink: /categories/
+permalink: /categorieen/
 author_profile: true
 sitemap: false
 ---

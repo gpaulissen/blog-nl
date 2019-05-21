@@ -4,6 +4,6 @@ permalink: /contact/
 comments: false
 sitemap: false
 ---
-Please leave your email address and comment here.
+Laat alsjeblieft je emailadres en commentaar achter.
 
 {% include comments.html %}
