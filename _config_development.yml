@@ -1,5 +1,4 @@
 remote_theme         : ''
-baseurl              : '/blog-nl'
 theme                : minimal-mistakes-jekyll
 
 plugins:

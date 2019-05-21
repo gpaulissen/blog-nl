@@ -1,13 +1,13 @@
 main:
   - title: "Posts"
-    url: posts
+    url: /posts/
   - title: "Categorieën"
-    url: categorieen
+    url: /categorieen/
 #  - title: "Tags"
 #    url: /tags/
   - title: "Over"
-    url: over
+    url: /over/
   - title: "Contact"
-    url: /blog/contact/
+    url: ../blog/contact/
 
 
