@@ -7,7 +7,7 @@ main:
 #    url: /tags/
   - title: "Over"
     url: /over/
-  - title: "Contact"
-    url: ../blog/contact/
+#  - title: "Contact"
+#    url: ../blog/contact/
 
 
