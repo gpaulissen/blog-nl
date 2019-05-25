@@ -48,7 +48,7 @@ nl: &DEFAULT_NL
   pagination_next               : "Volgende"
   pagination_previous           : "Vorige"
   powered_by                    : "Mogelijk gemaakt door"
-  recent_posts                  : "Recente Posts"
+  recent_posts                  : "Recente berichten"
   related_label                 : "Je bent misschien ook geïnteresseerd in"
   search_label                  : "Toggle zoeken"
   search_placeholder_text       : 'Voer je zoekterm in...'
